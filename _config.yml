@@ -1,0 +1,23 @@
+name: wearables
+favicon: null
+layout_spectrum: 0.6986027508974075
+typography_spectrum: 0.446176887024194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.7086895511019975
+  lightness: 0.4132317127659917
+  saturation: 0.49755864148028195
+  rhythmicContrast: 0.7775409109890461
+purpose: []
