@@ -2,6 +2,7 @@ name: wearables
 favicon: null
 layout_spectrum: 0.6986027508974075
 typography_spectrum: 0.446176887024194
+title: The Wearables Marketplace
 cta:
   domain: null
   bucket: null
