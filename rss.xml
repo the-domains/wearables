@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Wearables Marketplace]]></title>
+        <description><![CDATA[The Wearables Marketplace]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 09 Nov 2015 22:29:07 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[vivoactive Smartwatch | Garmin]]></title>
+            <description><![CDATA[<article><h1>vivoactive Smartwatch | Garmin</h1><p>The vívoactive GPS smartwatch combines built-in sports apps and activity tracking, with smart notifications to help you balance the active lifestyle.</p><img src="http://sites.garmin.com/en-US/vivo/m/g/vivoactive-display-run-unit-1x.jpg"></article>]]></description>
+            <link>http://sites.garmin.com/en-US/vivo/vivoactive/</link>
+            <guid isPermaLink="false">23e5b84c-4797-473f-8332-545bdd8b34e7</guid>
+            <pubDate>Mon, 09 Nov 2015 22:29:07 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
