@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Wearables Marketplace]]></title>
         <description><![CDATA[The Wearables Marketplace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/wearables/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 09 Nov 2015 22:29:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 22:33:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/wearables/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
+            <link>https://thegrid.ai/wearables/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">0bba1135-09b7-46a7-9291-edb3e32d1d66</guid>
+            <pubDate>Mon, 09 Nov 2015 22:33:05 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[vivoactive Smartwatch | Garmin]]></title>
             <description><![CDATA[<article><h1>vivoactive Smartwatch | Garmin</h1><p>The vívoactive GPS smartwatch combines built-in sports apps and activity tracking, with smart notifications to help you balance the active lifestyle.</p><img src="http://sites.garmin.com/en-US/vivo/m/g/vivoactive-display-run-unit-1x.jpg"></article>]]></description>
